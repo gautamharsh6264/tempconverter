@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+.container {
+    text-align: center;
+    align-items: center;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    background-color: aqua;
+    box-sizing: border-box;
+}
+
+.converter {
+    margin-top: 20px;
+}
+
+.converter input {
+    padding: 5px;
+}
+
+.converter select {
+    padding: 5px;
+}
+
+.converter button {
+    padding: 5px 10px;
+    display: flex;
+    background-color: rgb(63, 63, 181);
+}
+
+.result {
+    margin-top: 20px;
+    background-color: rgb(247, 84, 84);
+    
+}
